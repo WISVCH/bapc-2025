@@ -23,3 +23,9 @@ theme = 'ananke'
     changefreq = "monthly"
     priority = 0.5
     filename = "sitemap.xml"
+
+[[menu.main]]
+    name = "Jury Advice"
+    weight = 6
+    identifier = "GitHub"
+    url = "https://jury.bapc.eu/advice/"

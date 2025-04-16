@@ -1,5 +1,5 @@
 baseURL = 'https://2025.bapc.eu/'
-copyright = "W.I.S.V. `Christiaan Huygens'"
+copyright = "W.I.S.V. ‘Christiaan Huygens’"
 languageCode = 'en-us'
 title = 'BAPC 2025'
 theme = 'ananke'

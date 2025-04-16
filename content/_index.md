@@ -11,5 +11,5 @@ series of algorithmic problems to solve. The goal of each team is to solve as ma
 Potential solutions are submitted and corrected by an automated judging system. The best teams for each university will
 participate in the [NWERC 2025](https://2025.nwerc.eu/).
 
-The 2025 edition of the  Benelux Algorithm Programming Contest (BAPC) will be held on the 25th of October, 2025.
+The 2025 edition of the BAPC will be held on the 25th of October, 2025.
 The contest will be held on the campus of the Delft University of Technology.

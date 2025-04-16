@@ -1,5 +1,6 @@
 ---
 title: "BAPC 2025"
+logo: "/logo.svg"
 draft: false
 featured_image: './header.webp'
 ---

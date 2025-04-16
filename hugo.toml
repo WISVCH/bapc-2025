@@ -25,7 +25,7 @@ theme = 'ananke'
     filename = "sitemap.xml"
 
 [[menu.main]]
-    name = "Jury Advice"
+    name = "Jury Advice ⬀"
     weight = 6
     identifier = "GitHub"
     url = "https://jury.bapc.eu/advice/"

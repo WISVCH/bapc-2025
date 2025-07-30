@@ -26,3 +26,6 @@ at least three teams per institution should be no problem.
     - In case of a tie, either both teams get a slot or neither team gets a slot.
 * No more than five teams per institution will be accepted.
 
+Teams should conform to the [team composition rules](/rules/#team-composition). 
+All profiles of all team members should be completed by Friday the 3rd of October in the ICPC system.
+Teams with incomplete registrations will not be accepted.

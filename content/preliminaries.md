@@ -10,10 +10,10 @@ The following universities will be organizing a preliminary contest to select th
 - Amsterdam Universities Programming Contest (Vrije Universiteit & University of Amsterdam)
 - BAPC Preliminaries @UMONS (Université de Mons)
 - BAPC Preliminaries Groningen (University of Groningen)
-- BAPC Preliminaries Nijmegen (Radboud University)
 - BAPC Preliminaries UCLouvain (UCLouvain)
 - [Delft Algorithm Programming Contest](https://chipcie.wisv.ch/news/registration-dapc-25/) (TU Delft)
-- [Twents Algorithm Programming Contest](https://tapc.ia.utwente.nl/) (University of Twente)
+- [Twentsch Algorithm Programming Contest](https://tapc.ia.utwente.nl/) (University of Twente  & Saxion Univerisyt of Applied Sciences)
 ## 27 September 2025
+- BAPC Preliminaries Nijmegen (Radboud University)
 - Eindhoven Algorithm Programming Contest (TU Eindhoven)
 - Leids Kampioenschap Programeren (University of Leiden & Leiden University of Applied Sciences)

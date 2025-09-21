@@ -12,7 +12,7 @@ There is a BAPC Slack team. Coaches are invited to join [here](https://join.slac
 for quick access to the organization for questions.
 
 # Organization
-The BAPC 2025 is hosted by the [Delft University of Technology](https://www.tudelft.nl) and organised by the [CHipCie](https://chipcie.wisv.ch/) committee of study association [W.I.S.V. `Christiaan Huygens'](https://ch.tudelft.nl).
+The BAPC 2025 is hosted by the [Delft University of Technology](https://www.tudelft.nl) and organised by the [CHipCie](https://chipcie.wisv.ch/) committee of study association [W.I.S.V. ‘Christiaan Huygens’](https://ch.tudelft.nl).
 
 # CHipCie
 The CHipCie takes care of the programming contest within Delft and consists of the following people.

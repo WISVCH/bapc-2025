@@ -15,7 +15,7 @@ The teams that have solved the most puzzles at the end of the contest qualify fo
 Contest](https://2025.nwerc.eu). In this regional competition, the teams can qualify themselves for a ticket to the [International Collegiate
 Programming Contest](https://icpc.global) (also known as the World Finals) or the [Europe Championship](https://euc.icpc.global).
 
-The BAPC 2025 is hosted by the Delft University of Technology, and organized by W.I.S.V. \`Christiaan Huygens'.
+The BAPC 2025 is hosted by the Delft University of Technology, and organized by W.I.S.V. ‘Christiaan Huygens’.
 
 ## Previous Contests
 

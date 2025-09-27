@@ -4,6 +4,7 @@ weight: 5
 menu: main
 type: page
 ---
+Update 27 September: Update the eligibility diagram to the latest version.
 
 The ICPC regional contest rules can be found at the ICPC regionals website; [official ICPC regional rules](https://icpc.global/regionals/rules).
 
@@ -11,7 +12,7 @@ In addition to the official ICPC regional Rules, the following local rules also 
 
 ## Team composition
 A student may compete when eligible according to the [official ICPC regional rules](https://icpc.global/regionals/rules).
-The rules of previous year is summarized in the [2024-25 ICPC Regionals Eligibility Diagram](https://drive.google.com/file/d/1cFXF7ZKNP72ZZrq3yVIrREdk-snse1aX/view), a diagram for this year will be posted here once available.
+The rules of this year is summarized in the [2025-26 ICPC Regionals Eligibility Diagram](https://drive.google.com/file/d/1XPuELBOzLNYtjlzGZXKOQTr2Q0SI85dx/view).
 
 * A team consists of 3 eligible students.
 * The educational institutions must be from one of the region's member countries. By special request, teams from other countries may be allowed to participate in this region, as stated in the ICPC Regional Rules.

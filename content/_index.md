@@ -35,10 +35,7 @@ To be added after the BAPC.
 
 ## Preliminaries material
 
-The merged scoreboard for all preliminaries will be added soon.
-<!--
 - [Merged Scoreboard](/prelims/scoreboard)
--->
 - [Problem Set (pdf)](/prelims/problem-set.pdf)
 - [Solution Slides (pdf)](/prelims/solutions.pdf)
 - [Packaged Problems (.zip, 450MB)](/prelims/solutions.zip)

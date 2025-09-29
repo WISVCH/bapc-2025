@@ -13,6 +13,8 @@ The following universities will be organizing a preliminary contest to select th
 - BAPC Preliminaries UCLouvain (UCLouvain)
 - [Delft Algorithm Programming Contest](https://chipcie.wisv.ch/news/registration-dapc-25/) (TU Delft)
 - [Twentsch Algorithm Programming Contest](https://tapc.ia.utwente.nl/) (University of Twente & Saxion University of Applied Sciences)
+## 26 September 2025
+- BAPC Preliminaries Tilburg (Tilburg Univerisity)
 ## 27 September 2025
 - BAPC Preliminaries Nijmegen (Radboud University)
 - Eindhoven Algorithm Programming Contest (TU Eindhoven)

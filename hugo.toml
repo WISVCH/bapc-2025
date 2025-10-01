@@ -15,7 +15,8 @@ theme = 'ananke'
     favicon = ""
     site_logo = "logo.svg"
     background_color_class = "bg-navy"
-    #custom_css = ["background.css", "footer.css", "schedule.css", "tables.css", "booklet.css"]
+#    custom_css = ["background.css", "footer.css", "schedule.css", "tables.css"]
+    custom_css = ["css/footer.css", "css/schedule.css", "css/tables.css"]
     mainSections = ['news']
     env = "production"
 

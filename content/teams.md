@@ -6,23 +6,23 @@ menu: main
 ---
 The following teams are competing in BAPC 2025.
 
-|          |                                                                                                                                                                                    |
-|:--------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  ![367]  | Delft University of Technology &mdash; NLD<ul><li>They cheated ^^^^^^^^^^^^^^^^^^^^</li><li>S.L.O.N.</li><li>KapCie</li><li>🤌butta la pasta🤌</li><li>WWW</li></ul>               |
-|  ![452]  | Eindhoven University of Technology &mdash; NLD<ul><li>\[TEAMNAME]</li><li>FC Puddlebee (29)</li><li>Team DRR</li><li>πO(n)eers</li><li>The Turtles</li></ul>                       |
-| ![7019]  | Hogeschool Leiden &mdash; NLD<ul><li>HBO Noobs</li></ul>                                                                                                                           |
-| ![10500] | Maastricht University &mdash; NLD<ul><li>aMUsed again</li><li>Kofi n' cigs</li><li>unMUsual</li></ul>                                                                              |
-| ![8002]  | Radboud University &mdash; NLD<ul><li>Bachelor Afgerond, Plotseling Clowns</li><li>Laundry Bears</li><li>Blue Screen of Death</li><li>man idk don't put a name</li></ul>           |
-| ![1534]  | Rijksuniversiteit Groningen &mdash; NLD<ul><li>Triply Linked List</li><li>BrainLimitExcedeed</li><li>3Guys1Segfault</li></ul>                                                      | 
-| ![26551] | Tilburg University &mdash; NLD<ul><li>3 guys from Enigma</li><li>Jointly sufficient</li></ul>                                                                                      |
-| ![9858]  | UCLouvain &mdash; BEL<ul><li>BinaryChurch</li><li>QuickSort of Humor</li></ul>                                                                                                     |
-| ![8311]  | Université de Mons &mdash; BEL<ul><li>Les fous du Clavier</li><li>CPUMONS</li></ul>                                                                                                |
-| ![2284]  | Universiteit van Amsterdam &mdash; NLD<ul><li>It's all greedy to me</li><li>Heerlie De Programmeerlie</li><li>Yakumen</li><li>Stelling van Teleur</li><li>Monad Maniacs</li></ul>  |
-| ![2561]  | University of Twente &mdash; NLD<ul><li>\[object Object]</li><li>alma</li><li>Nth Time's the Charm</li><li>The Powerpuff Girls</li></ul>                                           |
-| ![2282]  | University of Leiden &mdash; NLD<ul><li>Offline</li><li>Control-Alt-Succeed</li><li>ChiLi code Bjarne</li><li>Plopkoek</li><li>SpaCatti Code “(^._.^)/</li></ul>                   |
-| ![13859] | University of Luxembourg &mdash; LUX<ul><li>gACK gACK</li><li>IH°3S </li><li>Dacia Dust3r</li></ul>                                                                                |
-| ![2625]  | Utrecht University &mdash; NLD<ul><li>ll twee = 1;</li><li>Proof of Concept</li><li>Copilot</li><li>Geomakkers</li></ul>                                                           |
-| ![2664]  | Vrije Universiteit &mdash; NLD<ul><li>&&</li><li>Do Bionic Cats Dream of AC?</li></ul>                                                                                             |
+|          |                                                                                                                                                                                   |
+|:--------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  ![367]  | Delft University of Technology &mdash; NLD<ul><li>They cheated ^^^^^^^^^^^^^^^^^^^^</li><li>S.L.O.N.</li><li>KapCie</li><li>🤌butta la pasta🤌</li><li>WWW</li></ul>              |
+|  ![452]  | Eindhoven University of Technology &mdash; NLD<ul><li>\[TEAMNAME]</li><li>FC Puddlebee (29)</li><li>Team DRR</li><li>πO(n)eers</li><li>The Turtles</li></ul>                      |
+| ![7019]  | Hogeschool Leiden &mdash; NLD<ul><li>HBO Noobs</li></ul>                                                                                                                          |
+| ![10500] | Maastricht University &mdash; NLD<ul><li>aMUsed again</li><li>Kofi n' cigs</li><li>unMUsual</li></ul>                                                                             |
+| ![8002]  | Radboud University &mdash; NLD<ul><li>Bachelor Afgerond, Plotseling Clowns</li><li>Laundry Bears</li><li>Blue Screen of Death</li><li>man idk don't put a name</li></ul>          |
+| ![1534]  | Rijksuniversiteit Groningen &mdash; NLD<ul><li>Triply Linked List</li><li>BrainLimitExcedeed</li><li>3Guys1Segfault</li></ul>                                                     | 
+| ![26551] | Tilburg University &mdash; NLD<ul><li>3 guys from Enigma</li><li>Jointly sufficient</li></ul>                                                                                     |
+| ![9858]  | UCLouvain &mdash; BEL<ul><li>BinaryChurch</li><li>QuickSort of Humor</li></ul>                                                                                                    |
+| ![8311]  | Université de Mons &mdash; BEL<ul><li>Les fous du Clavier</li><li>CPUMONS</li></ul>                                                                                               |
+| ![2284]  | Universiteit van Amsterdam &mdash; NLD<ul><li>It's all greedy to me</li><li>Heerlie De Programmeerlie</li><li>Yakumen</li><li>Stelling van Teleur</li><li>Monad Maniacs</li></ul> |
+| ![2561]  | University of Twente &mdash; NLD<ul><li>\[object Object]</li><li>alma</li><li>Nth Time's the Charm</li><li>The Powerpuff Girls</li></ul>                                          |
+| ![2282]  | University of Leiden &mdash; NLD<ul><li>Offline</li><li>Control-Alt-Succeed</li><li>ChiLi code Bjarne</li><li>Plopkoek</li></ul>                                                  |
+| ![13859] | University of Luxembourg &mdash; LUX<ul><li>gACK gACK</li><li>IH°3S </li><li>Dacia Dust3r</li></ul>                                                                               |
+| ![2625]  | Utrecht University &mdash; NLD<ul><li>ll twee = 1;</li><li>Proof of Concept</li><li>Copilot</li><li>Geomakkers</li><li>SpaCatti Code “(^._.^)/</li></ul>                          |
+| ![2664]  | Vrije Universiteit &mdash; NLD<ul><li>&&</li><li>Do Bionic Cats Dream of AC?</li></ul>                                                                                            |
 
 [//]: # (| <h3>Company teams</h3> |)
 

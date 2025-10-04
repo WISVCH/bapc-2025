@@ -9,7 +9,7 @@ The following teams are competing in BAPC 2025.
 |          |                                                                                                                                                                                   |
 |:--------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  ![367]  | Delft University of Technology &mdash; NLD<ul><li>They cheated ^^^^^^^^^^^^^^^^^^^^</li><li>S.L.O.N.</li><li>KapCie</li><li>🤌butta la pasta🤌</li><li>WWW</li></ul>              |
-|  ![452]  | Eindhoven University of Technology &mdash; NLD<ul><li>\[TEAMNAME]</li><li>FC Puddlebee (29)</li><li>Team DRR</li><li>πO(n)eers</li><li>The Turtles</li></ul>                      |
+|  ![452]  | Eindhoven University of Technology &mdash; NLD<ul><li>\[TEAMNAME]</li><li>FC Puddlebee</li><li>Team DRR</li><li>πO(n)eers</li><li>The Turtles</li></ul>                           |
 | ![7019]  | Hogeschool Leiden &mdash; NLD<ul><li>HBO Noobs</li></ul>                                                                                                                          |
 | ![10500] | Maastricht University &mdash; NLD<ul><li>aMUsed again</li><li>Kofi n' cigs</li><li>unMUsual</li></ul>                                                                             |
 | ![8002]  | Radboud University &mdash; NLD<ul><li>Bachelor Afgerond, Plotseling Clowns</li><li>Laundry Bears</li><li>Blue Screen of Death</li><li>man idk don't put a name</li></ul>          |

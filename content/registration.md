@@ -2,7 +2,6 @@
 title: "Registration"
 weight: 3
 type: page
-menu: main
 ---
 
 Registration will open on the 20th of September and will close on **Friday the 3rd of October**.

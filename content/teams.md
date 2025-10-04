@@ -13,7 +13,7 @@ The following teams are competing in BAPC 2025.
 | ![7019]  | Hogeschool Leiden &mdash; NLD<ul><li>HBO Noobs</li></ul>                                                                                                                          |
 | ![10500] | Maastricht University &mdash; NLD<ul><li>aMUsed again</li><li>Kofi n' cigs</li><li>unMUsual</li></ul>                                                                             |
 | ![8002]  | Radboud University &mdash; NLD<ul><li>Bachelor Afgerond, Plotseling Clowns</li><li>Laundry Bears</li><li>Blue Screen of Death</li></ul>                                           |
-| ![1534]  | Rijksuniversiteit Groningen &mdash; NLD<ul><li>Triply Linked List</li><li>BrainLimitExcedeed</li><li>3Guys1Segfault</li<li>man idk don't put a name</li>></ul>                    | 
+| ![1534]  | Rijksuniversiteit Groningen &mdash; NLD<ul><li>Triply Linked List</li><li>BrainLimitExcedeed</li><li>3Guys1Segfault</li<li>man idk don't put a name</li></ul>                     | 
 | ![26551] | Tilburg University &mdash; NLD<ul><li>3 guys from Enigma</li><li>Jointly sufficient</li></ul>                                                                                     |
 | ![9858]  | UCLouvain &mdash; BEL<ul><li>BinaryChurch</li><li>QuickSort of Humor</li></ul>                                                                                                    |
 | ![8311]  | Université de Mons &mdash; BEL<ul><li>Les fous du Clavier</li><li>CPUMONS</li></ul>                                                                                               |

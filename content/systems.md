@@ -13,7 +13,7 @@ menu: main
 </div>
 
 This page describes current plans for the programming environment which will be available to each BAPC 2025 team.
-**Please note that these plans are subject to change.**
+**Please note that these plans are subject to change. Latest change: 7 Oct 2025**
 
 Each team will have access to one workstation, shared between team members.
 A photo of the available workspace,
@@ -24,7 +24,7 @@ can be seen on the right.
 
 The software configuration will consist of the following:
 - OS:
-    - Ubuntu 24.04 LTS Linux (64-bit)
+    - Ubuntu 24.04.3 LTS Linux (64-bit)
 - Desktop:
     - Xfce
 - Editors:
@@ -38,35 +38,44 @@ The software configuration will consist of the following:
     - kate
 - IDEs:
     - IntelliJ IDEA Community
-        - Version: 2022.3
-        - Workspace is already set up but needs to be opened from the welcome screen
+        - Version: 2024.3.5
+        - Workspace is already set up 
         - Plugins:
             - IdeaVim
     - CLion
-        - Version: 2022.3
+        - Version: 2024.3.5
         - Workspace is already set up
         - Plugins:
             - IdeaVim
     - PyCharm Community
-        - Version: 2022.3
+        - Version: 2024.3.5
         - Workspace is already set up
         - Plugins:
             - IdeaVim
     - Eclipse
-        - Version: 2022-12
-        - Plugins:
-            - PyDev
+        - Version: TBD
+        <!-- - Plugins: -->
+        <!--     - PyDev -->
     - Visual Studio Code
-        - Version: 1.82.2
+        - Version: 1.104.3
         - Plugins:
-            - C/C++ - Microsoft
-            - C# - Microsoft
-            - Code Runner - Jun Han
-            - Debugger for Java - Microsoft
-            - ESLint - Dirk Baeumer
-            - Language Support for Java - Red Hat
-            - Python - Microsoft
-            - TSLint - Microsoft
+            - ms-python.python
+            - ms-python.vscode-pylance
+            - ms-python.debugpy
+            - redhat.java
+            - vscjava.vscode-java-debug
+            - vscjava.vscode-java-test
+            - ms-vscode.cpptools
+            - ms-vscode.cmake-tools
+            - vscodevim.vim
+            <!-- - C/C++ - Microsoft -->
+            <!-- - C# - Microsoft -->
+            <!-- - Code Runner - Jun Han -->
+            <!-- - Debugger for Java - Microsoft -->
+            <!-- - ESLint - Dirk Baeumer -->
+            <!-- - Language Support for Java - Red Hat -->
+            <!-- - Python - Microsoft -->
+            <!-- - TSLint - Microsoft -->
     - Code::Blocks
         - Version: 20.03
 
@@ -83,7 +92,7 @@ The following languages are allowed during the contest:
 - Python
     - Version: PyPy 7.3.19 (Python 3.11.11)
 - Java
-    - Version: 21.0.6
+    - Version: 21.0.8
 - Kotlin
     - Version: 2.1.20
 

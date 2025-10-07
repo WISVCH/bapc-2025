@@ -13,7 +13,7 @@ menu: main
 </div>
 
 This page describes current plans for the programming environment which will be available to each BAPC 2025 team.
-**Please note that these plans are subject to change. Latest change: 7 Oct 2025**
+**Please note that these plans are subject to change. Last update: 7 Oct 2025**
 
 Each team will have access to one workstation, shared between team members.
 A photo of the available workspace,
@@ -100,7 +100,7 @@ Note that Python 2 is no longer supported.
 
 ## Compilation of Submissions
 
-During the contest, teams will submit proposed solutions to the contest problems to the Judges using the [DOMjudge](https://www.domjudge.org) contest control system (version 8.3.1). This can be done through the [web interface](https://www.domjudge.org/docs/manual/8.3/team.html#web-interface), or using the [submit client](https://www.domjudge.org/docs/manual/8.3/team.html#command-line-submit).
+During the contest, teams will submit proposed solutions to the contest problems to the Judges using the [DOMjudge](https://www.domjudge.org) contest control system (version 9.0.0). This can be done through the [web interface](https://www.domjudge.org/docs/manual/9.0/team.html#web-interface), or using the [submit client](https://www.domjudge.org/docs/manual/9.0/team.html#command-line-submit).
 Source files submitted to the Judges will be compiled using the following command line arguments for the respective language:
 
 - C:
@@ -148,4 +148,4 @@ The following reference materials will be available on the teams' workstations t
 - [Python 3.11.11 documentation](https://docs.python.org/release/3.11.11/)
 - [Java® Platform, Standard Edition & Java Development Kit Version 21 API Specification](https://docs.oracle.com/en/java/javase/21/docs/api/)
 - [Kotlin Language Documentation 2.1.20 (As PDF)](https://raw.githubusercontent.com/JetBrains/kotlin-web-site/e3ec93b63240397ae404e9c492b7dadaf2e67625/assets/kotlin-reference.pdf)
-- [DOMjudge Team Manual (As PDF)](https://www.domjudge.org/docs/manual/8.3/team.html)
+- [DOMjudge Team Manual (As PDF)](https://www.domjudge.org/docs/manual/9.0/team.html)

@@ -13,7 +13,7 @@ menu: main
 </div>
 
 This page describes current plans for the programming environment which will be available to each BAPC 2025 team.
-**Please note that these plans are subject to change.**
+**Please note that these plans are subject to change. Last update: 7 Oct 2025**
 
 Each team will have access to one workstation, shared between team members.
 A photo of the available workspace,
@@ -24,7 +24,7 @@ can be seen on the right.
 
 The software configuration will consist of the following:
 - OS:
-    - Ubuntu 24.04 LTS Linux (64-bit)
+    - Ubuntu 24.04.3 LTS Linux (64-bit)
 - Desktop:
     - Xfce
 - Editors:
@@ -38,35 +38,44 @@ The software configuration will consist of the following:
     - kate
 - IDEs:
     - IntelliJ IDEA Community
-        - Version: 2022.3
-        - Workspace is already set up but needs to be opened from the welcome screen
+        - Version: 2024.3.5
+        - Workspace is already set up 
         - Plugins:
             - IdeaVim
     - CLion
-        - Version: 2022.3
+        - Version: 2024.3.5
         - Workspace is already set up
         - Plugins:
             - IdeaVim
     - PyCharm Community
-        - Version: 2022.3
+        - Version: 2024.3.5
         - Workspace is already set up
         - Plugins:
             - IdeaVim
     - Eclipse
-        - Version: 2022-12
-        - Plugins:
-            - PyDev
+        - Version: TBD
+        <!-- - Plugins: -->
+        <!--     - PyDev -->
     - Visual Studio Code
-        - Version: 1.82.2
+        - Version: 1.104.3
         - Plugins:
-            - C/C++ - Microsoft
-            - C# - Microsoft
-            - Code Runner - Jun Han
-            - Debugger for Java - Microsoft
-            - ESLint - Dirk Baeumer
-            - Language Support for Java - Red Hat
-            - Python - Microsoft
-            - TSLint - Microsoft
+            - ms-python.python
+            - ms-python.vscode-pylance
+            - ms-python.debugpy
+            - redhat.java
+            - vscjava.vscode-java-debug
+            - vscjava.vscode-java-test
+            - ms-vscode.cpptools
+            - ms-vscode.cmake-tools
+            - vscodevim.vim
+            <!-- - C/C++ - Microsoft -->
+            <!-- - C# - Microsoft -->
+            <!-- - Code Runner - Jun Han -->
+            <!-- - Debugger for Java - Microsoft -->
+            <!-- - ESLint - Dirk Baeumer -->
+            <!-- - Language Support for Java - Red Hat -->
+            <!-- - Python - Microsoft -->
+            <!-- - TSLint - Microsoft -->
     - Code::Blocks
         - Version: 20.03
 
@@ -83,7 +92,7 @@ The following languages are allowed during the contest:
 - Python
     - Version: PyPy 7.3.19 (Python 3.11.11)
 - Java
-    - Version: 21.0.6
+    - Version: 21.0.8
 - Kotlin
     - Version: 2.1.20
 
@@ -91,7 +100,7 @@ Note that Python 2 is no longer supported.
 
 ## Compilation of Submissions
 
-During the contest, teams will submit proposed solutions to the contest problems to the Judges using the [DOMjudge](https://www.domjudge.org) contest control system (version 8.3.1). This can be done through the [web interface](https://www.domjudge.org/docs/manual/8.3/team.html#web-interface), or using the [submit client](https://www.domjudge.org/docs/manual/8.3/team.html#command-line-submit).
+During the contest, teams will submit proposed solutions to the contest problems to the Judges using the [DOMjudge](https://www.domjudge.org) contest control system (version 9.0.0). This can be done through the [web interface](https://www.domjudge.org/docs/manual/9.0/team.html#web-interface), or using the [submit client](https://www.domjudge.org/docs/manual/9.0/team.html#command-line-submit).
 Source files submitted to the Judges will be compiled using the following command line arguments for the respective language:
 
 - C:
@@ -139,4 +148,4 @@ The following reference materials will be available on the teams' workstations t
 - [Python 3.11.11 documentation](https://docs.python.org/release/3.11.11/)
 - [Java® Platform, Standard Edition & Java Development Kit Version 21 API Specification](https://docs.oracle.com/en/java/javase/21/docs/api/)
 - [Kotlin Language Documentation 2.1.20 (As PDF)](https://raw.githubusercontent.com/JetBrains/kotlin-web-site/e3ec93b63240397ae404e9c492b7dadaf2e67625/assets/kotlin-reference.pdf)
-- [DOMjudge Team Manual (As PDF)](https://www.domjudge.org/docs/manual/8.3/team.html)
+- [DOMjudge Team Manual (As PDF)](https://www.domjudge.org/docs/manual/9.0/team.html)

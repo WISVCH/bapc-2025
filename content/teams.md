@@ -18,7 +18,7 @@ The following teams are competing in BAPC 2025.
 | ![9858]  | UCLouvain &mdash; BEL<ul><li>BinaryChurch</li><li>QuickSort of Humor</li></ul>                                                                                                    |
 | ![8311]  | Université de Mons &mdash; BEL<ul><li>Les fous du Clavier</li><li>CPUMONS</li></ul>                                                                                               |
 | ![2284]  | Universiteit van Amsterdam &mdash; NLD<ul><li>It's all greedy to me</li><li>Heerlie De Programmeerlie</li><li>Yakumen</li><li>Stelling van Teleur</li><li>Monad Maniacs</li></ul> |
-| ![2561]  | University of Twente &mdash; NLD<ul><li>\[object Object]</li><li>alma</li><li>Nth Time's the Charm</li><li>The Powerpuff Girls</li></ul>                                          |
+| ![2561]  | University of Twente &mdash; NLD<ul><li>\[object Object]</li><li>\(\() => {})();</li><li>Nth Time's the Charm</li><li>The Powerpuff Girls</li></ul>                               |
 | ![2282]  | University of Leiden &mdash; NLD<ul><li>Offline</li><li>Control-Alt-Succeed</li><li>ChiLi code Bjarne</li><li>Plopkoek</li></ul>                                                  |
 | ![13859] | University of Luxembourg &mdash; LUX<ul><li>gACK gACK</li><li>IH°3S </li><li>Dacia Dust3r</li></ul>                                                                               |
 | ![2625]  | Utrecht University &mdash; NLD<ul><li>ll twee = 1;</li><li>Proof of Concept</li><li>Copilot</li><li>Geomakkers</li><li>SpaCatti Code “(^._.^)/</li></ul>                          |

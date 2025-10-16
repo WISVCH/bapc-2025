@@ -11,6 +11,7 @@ The following teams are competing in BAPC 2025.
 |  ![367]  | Delft University of Technology &mdash; NLD<ul><li>They cheated ^^^^^^^^^^^^^^^^^^^^</li><li>S.L.O.N.</li><li>KapCie</li><li>🤌butta la pasta🤌</li><li>WWW</li></ul>              |
 |  ![452]  | Eindhoven University of Technology &mdash; NLD<ul><li>\[TEAMNAME]</li><li>FC Puddlebee</li><li>Team DRR</li><li>πO(n)eers</li><li>The Turtles</li></ul>                           |
 | ![7019]  | Hogeschool Leiden &mdash; NLD<ul><li>HBO Noobs</li></ul>                                                                                                                          |
+| ![11103] | KU Leuen &mdash; BEL<ul><li>#include <KUL></li></ul>                                                                                                                              |
 | ![10500] | Maastricht University &mdash; NLD<ul><li>aMUsed again</li><li>Kofi n' cigs</li><li>unMUsual</li></ul>                                                                             |
 | ![8002]  | Radboud University &mdash; NLD<ul><li>Bachelor Afgerond, Plotseling Clowns</li><li>Laundry Bears</li><li>Blue Screen of Death</li></ul>                                           |
 | ![1534]  | Rijksuniversiteit Groningen &mdash; NLD<ul><li>Triply Linked List</li><li>BrainLimitExcedeed</li><li>3Guys1Segfault</li><li>man idk don't put a name</li></ul>                    |
@@ -50,5 +51,6 @@ The following teams are competing in BAPC 2025.
 [8311]: /logo/8311.png "Université de Mons"
 [9858]: /logo/9858.png "UCLouvain"
 [10500]: /logo/10500.png "Maastricht University"
+[11103]: (/logo/11103.png) "KU Leuven"
 [13859]: /logo/13859.png "University of Luxembourg"
 [26551]: /logo/26551.png "Tilburg University"

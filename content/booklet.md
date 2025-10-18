@@ -9,11 +9,10 @@ weight: 1
 
 ## Foreword
 
-![Constest Director Nadyne (**TODO**)](/nadyne.webp)
-{.booklet-side-picture}
+![Constest Director Eddie](/eddie.webp)
+{style="width:50%; float:right; margin:0 0 1em 1em;"}
 
 Dear contestants, coaches and programming enthusiasts,
-{.booklet-side-picture}
 
 A warm welcome to BAPC 2025! We are delighted to have you join us and look forward to sharing this exciting day with you. This year, BAPC is hosted in Delft at the Delft University of Technology. We wish you an amazing time and hope you will also take a moment to discover a bit more of what Delft has to offer.
 
@@ -28,8 +27,6 @@ We hope that you will have an amazing time! Best of luck to all contestants and 
 On behalf of the CHipCie,<br>
 Eduard Cimpean<br>
 Contest Director BAPC 2025
-
-![ASML](/asml_ad.png)
 
 ## Welcome
 Welcome to the city of technical expertise in the Netherlands: Delft!
@@ -52,7 +49,7 @@ Even BAPC 2025 is organised by members of the study association W.I.S.V. 'Christ
 ![Delft City Center Map](/delft-city-center-map.jpg)
 *Source: [OnTheWorldMap](https://ontheworldmap.com/netherlands/city/delft/delft-city-center-map.html)*
 
-![Northpool](/northpool_ad.png)
+![WEBB Traders (**TODO**)](/webbtraders_ad.png)
 
 ## Systems
 During the contest, the computer is your most valuable resource (perhaps apart from coffee).
@@ -68,14 +65,14 @@ The only operating system available to you will be **Ubuntu 24.04** with **Xfce*
 The jury will run your submissions on the same system with the same compilers.
 During the contest, you will be able to choose between the languages **C, C++, Python, Java, and Kotlin**.
 Using different languages for different problems is allowed.
-For a complete list of available IDEs, editors, language versions and compiler commands, see [2024.nwerc.eu/systems](/systems).
+For a complete list of available IDEs, editors, language versions and compiler commands, see [2025.bapc.eu/systems](/systems).
 
 ### During the contest
 An introductory presentation on the systems will be given on Saturday, please refer to the [schedule](/schedule) for the exact time.
 At this presentation, do not hesitate to ask any questions.
 Furthermore, if you stumble upon any problems with the system during the test session or contest, let us know and we will be more than happy to assist you.
 
-![Da Vinci](/da_vinci_ad.png)
+![JetBrains (**TODO**)](/jetbrains_ad.png)
 
 ## Jury and Rules
 We follow the World Finals’ Rules, so a team is allowed to bring 3 copies of their Team Reference Document, but not allowed
@@ -118,11 +115,9 @@ At the contest, test session, opening ceremony and award ceremony require offici
 Your name sticker should be worn visibly at all times.
 The regional contest director is empowered to add additional restrictions and to correct inappropriate behavior.
 
-![Mathrix](/mathrix_ad.png)
-
 ## Company profiles
 
-### WEBB Traders
+### WEBB Traders (**TODO**)
 WE ARE A LEADING MARKET MAKER.
 
 WEBB Traders is a proprietary trading company aiming to redefine trading as a unified effort powered by a broader range of expertise and technology.
@@ -140,54 +135,11 @@ So... if you are driven, a team player, you love a good challenge and you want t
 - [www.webbtraders.com](https://www.webbtraders.com)
 - [www.linkedin.com/company/webb-traders](https://www.linkedin.com/company/webb-traders)
 
-### ASML
-ASML is changing the world, one nanometer at a time! We’re a high-tech, Netherlands-based company manufacturing complex lithography systems that chipmakers use to produce integrated circuits – aka microchips.
+### Jane Street (**TODO**)
 
-Our machines help create the electronics you use in your daily life. In the past three decades, we have grown from a startup to a multinational company with over 60 locations globally and annual net sales of €21&nbsp;billion in 2022.
+### JetBrains (**TODO**)
 
-Behind ASML’s innovation hides true talent.
-Our researchers, engineers, scientists and manufacturing specialists, as well as our high-tech hardware and software experts, make the impossible happen every day.
-We invest around €3.3&nbsp;billion per year in R&D, giving our teams the freedom, support and resources to experiment, test and push the boundaries of technology.
-They work in close-knit, multidisciplinary teams, learning and growing along with the company.
-
-If you want to be part of progress, visit [asml.com/careers](https://asml.com/careers).
-
-### Northpool
-
-Northpool is a commodity trading company, based in Leiden, the Netherlands. Northpool’s main focus lies with energy and weather-related commodities and is currently active on the power and gas markets.
-With the future going forward to an even more sustainable energy environment, anticipating the future energy trends for the coming years is imperative. With wind, sun and rain as ideal sustainable energy sources,
-the weather has become increasingly important in the energy markets. Variations in weather lead to volatility in the power market.
-
-Northpool’s expertise is founded on three pillars, Fundamentals, Efficiency and Opportunities. First, Northpool has a strong knowledge on the fundamental drivers in the energy market. Second, Northpool uses data
-driven feeding trading strategies leading to a more efficient power market. The trading strategies are strongly driven the combination of market data and technological possibilities. Finally, Northpool is always seeking opportunities in the market.
-
-At Northpool we have four trading desks: Intraday, short term, long term and algorithmic trading. We are always looking for graduates for these desks and want to start their career with us.
-Whether you aspire to a career as a trader, analyze situations in the market or like to build models, at Northpool we look for the best place for you in our organization.
-
-
-### Da Vinci
-
-Da Vinci was founded in 2015 by three friends with significant experience and enthusiasm for trading and has been growing successfully ever since.
-We are a unique proprietary trading firm, focusing on volatility trading, arbitrage and market making across major exchanges worldwide.
-We identify opportunities, trade volatility based on in-house developed strategies and provide liquidity to the markets thus making them more efficient.
-
-Our philosophy towards work is best captured by the saying “Be good, work hard and great things will happen”.
-We are meritocratic by nature and believe that empowering talent in our organization is the only way forward. As part of our team, you will build trading algorithms, implement new strategies in the market, analyze trades, continuously improve how we do things and come up with new innovative ideas to contribute to reaching our ambitious goals.
-
-
-### Mathrix
-
-Mathrix is a leading algorithmic trading firm with fully automated operations, providing deep liquidity to the digital asset markets. Mathrix is one of the dominant players in the space, ranking at the top of CEX and expanding rapidly on DEX.
-To keep our leading position in this fast-moving space we rely on our bright and creative minds. Our flat organisation structure and cutting-edge technology enable us to execute new opportunities and ideas fast, while instant feedback from the markets allows us to constantly improve and push boundaries. Initiative and creativity are highly valued, and our highest priority is to facilitate you to shape your own future, and with that the future of Mathrix.
-
-As one of the early movers we are committed to crypto native culture and the vibrant energy from the space, where in addition to dedication and high quality work there is also room to enjoy. Next to regular social activities outside of work, we have bars, game rooms, a massage therapist, gym subscriptions and other awesome facilities to create a comfortable and fun working environment.
-
-Our solid foundation enables us to transform to a full-service Web 3.0 financial technology firm. Offering a variety of services to support token projects, protocol research and overall community development for efficient crypto markets by leveraging our current unique position in the market as well as 10 years of experience in digital asset markets.
-
-We are expanding and looking for exceptional talent to join our team in Switzerland, the Netherlands or Singapore.
-Do you have any questions or would you like to know more about Mathrix? Please send us an email via [recruitment@mathrix.com](mailto:recruitment@mathrix.com).
-
-### IMC Trading
+### IMC Trading (**TODO**)
 
 No siloes. No hierarchies. Just great ideas. As a leading global market maker, IMC uses algorithmic trading and advanced technology to buy and sell securities on multiple trading venues worldwide.
 
@@ -197,14 +149,8 @@ Our enduring success is testament to the strength of our values. We fuse creativ
 
 It's a unique culture that sets us apart. As we like to say, there's only one IMC.
 
-![WEBB Traders](/webbtraders_ad.png)
-
 ## Schedule
-### Friday - November 22, 2023
-{{< timetable day="friday" from="14" to="21" >}}
 
-### Saturday - November 23, 2023
+### Saturday - October 25, 2025
 {{< timetable day="saturday" from="8" to="20" >}}
 
-### Sunday - November 24, 2023
-{{< timetable day="sunday" from="8" to="17" >}}

@@ -49,8 +49,6 @@ Even BAPC 2025 is organised by members of the study association W.I.S.V. 'Christ
 ![Delft City Center Map](/delft-city-center-map.jpg)
 *Source: [OnTheWorldMap](https://ontheworldmap.com/netherlands/city/delft/delft-city-center-map.html)*
 
-![WEBB Traders (**TODO**)](/webbtraders_ad.png)
-
 ## Systems
 During the contest, the computer is your most valuable resource (perhaps apart from coffee).
 A brief explanation of our systems can be found on this page.
@@ -72,7 +70,7 @@ An introductory presentation on the systems will be given on Saturday, please re
 At this presentation, do not hesitate to ask any questions.
 Furthermore, if you stumble upon any problems with the system during the test session or contest, let us know and we will be more than happy to assist you.
 
-![JetBrains (**TODO**)](/jetbrains_ad.png)
+![WEBB Traders](/webbtraders_ad.png)
 
 ## Jury and Rules
 We follow the World Finals’ Rules, so a team is allowed to bring 3 copies of their Team Reference Document, but not allowed
@@ -117,37 +115,44 @@ The regional contest director is empowered to add additional restrictions and to
 
 ## Company profiles
 
-### WEBB Traders (**TODO**)
-WE ARE A LEADING MARKET MAKER.
+### WEBB Traders
+WE ARE A LEADING MARKET MAKER
 
-WEBB Traders is a proprietary trading company aiming to redefine trading as a unified effort powered by a broader range of expertise and technology.
-We act as a market maker and we use our own capital to trade on global stock and derivatives exchanges.
-Since our first trade in 2009, we’ve developed a culture of openness, community, joy, and boundless entrepreneurship.
+WEBB Traders is a proprietary trading company redefining trading as a unified
+eort powered by technology, expertise, and collaboration. Since our first
+trade in 2009, we have built a culture of openness, community, and
+entrepreneurship where curiosity and ambition drive everything we do.
 
-Looking to unleash your talent?
+WEBB TALENT
 
-WEBB is continually growing and expanding into new markets.
-To keep up with this growth we are on the lookout for talented (junior) traders, researchers, engineers, and other experts to come join us.
-We realize that our strength is in our people so we give them the freedom to be who they are and empower them to be the best that they can be, both personally and professionally.
-Our company size allows us to have a flat hierarchy and transparency, where trust can thrive.
-So... if you are driven, a team player, you love a good challenge and you want to learn (a lot!) then we welcome you to apply for one of our openings.
+A career at WEBB is more than just a job. It means joining a community of
+bright, curious people who love a challenge and strive for excellence. Think
+trading is all work and no play? Not at WEBB. From weekly get-togethers and
+team events to annual trips, we make sure there is always room for fun.
 
+As we continue to grow and expand into new markets, we are looking for
+talented traders, researchers, engineers, and other specialists to join the
+WEBB movement.
+
+NOT YOUR TYPICAL TRADING ENVIRONMENT
+
+Opportunity is everything at WEBB. There is no single way to trade, and
+collaboration across teams and disciplines is at the heart of how we work. By
+combining diverse perspectives, we uncover smarter ways to achieve results
+and push the boundaries of what is possible.
+
+SERVING A GLOBAL FINANCIAL SYSTEM
+
+As a market maker, we use our own capital to trade on global stock and
+derivatives exchanges. By leveraging a broad network of interdealer brokers
+and the latest trading technology, we add liquidity to financial markets through
+carefully structured trades.
+
+If you are driven, a team player, and eager to learn in a fast-paced, collaborative
+environment, we would love to hear from you. Join WEBB and become part of
+a community where expertise meets innovation.
 - [www.webbtraders.com](https://www.webbtraders.com)
 - [www.linkedin.com/company/webb-traders](https://www.linkedin.com/company/webb-traders)
-
-### Jane Street (**TODO**)
-
-### JetBrains (**TODO**)
-
-### IMC Trading (**TODO**)
-
-No siloes. No hierarchies. Just great ideas. As a leading global market maker, IMC uses algorithmic trading and advanced technology to buy and sell securities on multiple trading venues worldwide.
-
-Across Europe, the US, and Asia-Pacific, our technologists and traders collaborate to explore, design, and develop the software, hardware, advanced networks, and algorithms that drive our trading strategies and provide essential liquidity to financial markets.
-
-Our enduring success is testament to the strength of our values. We fuse creative freedom, open feedback, and quick iteration to empower some of the world’s most talented people. We recognize the best ideas today – and collaborate across teams, borders, and time zones to make them even better tomorrow. And while we work hard, we have lots of fun doing it.
-
-It's a unique culture that sets us apart. As we like to say, there's only one IMC.
 
 ## Schedule
 

@@ -17,30 +17,28 @@ The BAPC 2025 is hosted by the [Delft University of Technology](https://www.tude
 # CHipCie
 The CHipCie takes care of the programming contest within Delft and consists of the following people.
 
-![CHipCie](/chipcie2024.webp)
+![CHipCie](/chipcie2025.webp)
 
 ## Top Row:
 From left to right:
-* Maarten Sijm, _Head Jury Affairs_
-* Robert van Dijk,
-* Atour Mousavi Gourabi, _Treasurer_
-* Luc Jonker, _Systems Affairs_
-* Joshua Gort, _Head Systems Affairs_
 * Thomas Verwoerd, _Coach Affairs_
+* Luc Jonker, _Systems Affairs_
+* Eduard Cimpean, _Contest Director_
+* Andrei Voicu, _Secretary_
+* Maarten Sijm, _Head Jury Affairs_
 
 ## Bottom Row:
 From left to right:
-* Maarten Weyns, _Contest Director_
-* Tim Stols, _Qualitate Qua_
-* Brian Witmer, _Jury Affairs_
-* Nadyne Aretz,
+* Maarten Weyns, _Flying Keep_
+* Joshua Gort, _Head Systems Affairs_
 * Els Brouwer, _Logistics Affairs_
-* Bink Boëtius, _Qualitate Qua / The Wise Owl_
-* Raoul Bruens,
+* Julien Laguette, _Qualitate Qua / The Wise Owl_
+* Brian Witmer, _Flying Keep_
+* Marcell Kiss, _Logistics Affairs_
+* Rafayel Gardishyan, _Promotion Affairs_
 
 ## Not in Picture:
+* Atour Mousavi Gourabi, _Treasurer_
+* Jan Piotrowski, _Systems Affairs_
 * Kasper van Duijne, _Chair_
-* Andrei Voicu, _Secretary_
-* Jan Piotrowski, _System Affairs_
-* Eduard Cimpean, _Promotion Affairs_
-* Carlo Attanasio, _Logistics Affairs_
+* Luca Wachters, _Qualitate Qua_

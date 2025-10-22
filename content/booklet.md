@@ -70,7 +70,7 @@ An introductory presentation on the systems will be given on Saturday, please re
 At this presentation, do not hesitate to ask any questions.
 Furthermore, if you stumble upon any problems with the system during the test session or contest, let us know and we will be more than happy to assist you.
 
-![WEBB Traders](/webbtraders_ad.png)
+![WEBB Traders ad](/webbtraders_ad.png)
 
 ## Jury and Rules
 We follow the World Finals’ Rules, so a team is allowed to bring 3 copies of their Team Reference Document, but not allowed
@@ -114,6 +114,23 @@ Your name sticker should be worn visibly at all times.
 The regional contest director is empowered to add additional restrictions and to correct inappropriate behavior.
 
 ## Company profiles
+
+### JetBrains
+
+JetBrains is a global software company that creates professional software development tools and advanced collaboration solutions trusted by more than 15 million users worldwide. Since 2000, we have built a product catalog that covers all stages of the software development cycle, major technologies, programming languages, and educational processes.
+
+As developers of the Kotlin programming language and creators of professional development products like IntelliJ IDEA, CLion, and PyCharm, as well as educational tools that help people learn and teach computer programming, we are dedicated to supporting individuals throughout their software development journeys. Sponsoring ICPC has special significance for JetBrains and aligns with our commitment to nurturing promising young talent and working with the brightest minds.
+
+Visit [jb.gg/icpc](https://jb.gg/icpc) to learn about JetBrains’ involvement with the ICPC and find materials on how the company supports the brilliant minds of the ICPC community.
+
+### IMC Trading
+No siloes. No hierarchies. Just great ideas. As a leading global market maker, IMC uses algorithmic trading and advanced technology to buy and sell securities on multiple trading venues worldwide.
+
+Across Europe, the US, and Asia-Pacific, our technologists and traders collaborate to explore, design, and develop the software, hardware, advanced networks, and algorithms that drive our trading strategies and provide essential liquidity to financial markets.
+
+Our enduring success is testament to the strength of our values. We fuse creative freedom, open feedback, and quick iteration to empower some of the world’s most talented people. We recognize the best ideas today – and collaborate across teams, borders, and time zones to make them even better tomorrow. And while we work hard, we have lots of fun doing it.
+
+It’s a unique culture that sets us apart. As we like to say, there’s only one IMC.
 
 ### WEBB Traders
 WE ARE A LEADING MARKET MAKER

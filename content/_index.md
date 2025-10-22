@@ -19,7 +19,9 @@ The contest will be held on the campus of the Delft University of Technology.
 
 ## Contest material
 
-To be added after the BAPC.
+- [Problem Set (pdf)](https://wisv.ch/uilbum)
+- [Solution Slides (pdf)](https://youtu.be/2yJgwwDcgV8)
+- [Packaged Problems (.zip, 69MB)](https://youtu.be/dQw4w9WgXcQ)
 <!--
 - [Photos](/photos)
 - [Final Standings](/main/scoreboard) ([Spectators](/main/scoreboard/spectators.html))

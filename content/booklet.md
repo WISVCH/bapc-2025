@@ -123,6 +123,14 @@ JetBrains is a global software company that creates professional software develo
 
 As developers of the Kotlin programming language and creators of professional development products like IntelliJ IDEA, CLion, and PyCharm, as well as educational tools that help people learn and teach computer programming, we are dedicated to supporting individuals throughout their software development journeys. Sponsoring ICPC has special significance for JetBrains and aligns with our commitment to nurturing promising young talent and working with the brightest minds.
 
+#### Junie
+Junie, your AI coding agent, restructures code, generates tests, and refines implementations ‒ so you can tackle bigger challenges faster. Available in JetBrains IDEs.
+
+#### Internships
+JetBrains offers paid summer internships and flexible, year-round part-time roles for candidates in Europe, designed for ICPC and competitive programming talent. Dive into real-world production code from day one, hand-pick the challenges that excite you, and grow with a senior engineer as your mentor.
+Ready to build something extraordinary?
+Find a project that inspires you: [internship.jetbrains.com](https://internship.jetbrains.com)
+
 Visit [jb.gg/icpc](https://jb.gg/icpc) to learn about JetBrains’ involvement with the ICPC and find materials on how the company supports the brilliant minds of the ICPC community.
 
 ### IMC Trading

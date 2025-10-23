@@ -49,6 +49,8 @@ Even BAPC 2025 is organised by members of the study association W.I.S.V. 'Christ
 ![Delft City Center Map](/delft-city-center-map.jpg)
 *Source: [OnTheWorldMap](https://ontheworldmap.com/netherlands/city/delft/delft-city-center-map.html)*
 
+![JetBrains ad](/jetbrains_ad.png)
+
 ## Systems
 During the contest, the computer is your most valuable resource (perhaps apart from coffee).
 A brief explanation of our systems can be found on this page.

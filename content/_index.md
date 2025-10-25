@@ -18,19 +18,18 @@ The contest will be held on the campus of the Delft University of Technology.
 {{% column %}}
 
 ## Contest material
+<!--
 - [Scoreboard](https://scoreboard.bapc.eu)
 - [Problem Set (pdf)](https://wisv.ch/uilbum)
 - [Solution Slides (pdf)](https://youtu.be/2yJgwwDcgV8)
 - [Packaged Problems (.zip, 69MB)](https://youtu.be/dQw4w9WgXcQ)
-<!--
-- [Photos](/photos)
+-->
+
+<!-- - [Photos](/photos) -->
 - [Final Standings](/main/scoreboard) ([Spectators](/main/scoreboard/spectators.html))
 - [Problem Set (pdf)](/main/problem-set.pdf)
 - [Solution Slides (pdf)](/main/solutions.pdf)
-- [Packaged Problems (.zip, ???MB)](/main/solutions.zip)
-- [Contest Livestream](https://www.youtube.com/watch?v=Ho3z9XpJ5AA)
-- [Award Ceremony Livestream](https://www.youtube.com/watch?v=Z1HO34X9qSA)
--->
+- [Packaged Problems (.zip, 118MB)](/main/solutions.zip)
 
 {{% /column %}}
 {{% column %}}

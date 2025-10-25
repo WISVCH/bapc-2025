@@ -12,8 +12,8 @@ menu: main
     </a>
 </div>
 
-This page describes current plans for the programming environment which will be available to each BAPC 2025 team.
-**Please note that these plans are subject to change. Last update: 7 Oct 2025**
+This page describes current plans for the programming environment which will be available to each BAPC 2025 team.<br>
+**<!--Please note that these plans are subject to change. -->Last update: 7 Oct 2025**
 
 Each team will have access to one workstation, shared between team members.
 A photo of the available workspace,

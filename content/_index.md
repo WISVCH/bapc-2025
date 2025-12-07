@@ -25,7 +25,7 @@ The contest was held on the campus of the Delft University of Technology.
 - [Packaged Problems (.zip, 69MB)](https://youtu.be/dQw4w9WgXcQ)
 -->
 
-<!-- - [Photos](/photos) -->
+- [Photos](/photos)
 - [Final Standings](/main/scoreboard) ([Spectators](/main/scoreboard/spectators.html))
 - [Problem Set (pdf)](/main/problem-set.pdf)
 - [Solution Slides (pdf)](/main/solutions.pdf)
